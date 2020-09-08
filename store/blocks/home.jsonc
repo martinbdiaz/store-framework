@@ -1,7 +1,14 @@
 {
   "store.home": { 
     "blocks": [
-      
+      "rich-text"
     ]
+  },
+  "rich-text":{
+    "props":{
+      "text": "*HELLO, WORDL!*",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER"
+    }
   }
 }
