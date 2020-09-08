@@ -6,9 +6,9 @@
   },
   "rich-text":{
     "props":{
-      "text": "*HELLO, WORDL!*",
+      "text": "**HELLO, WORDL!**",
       "textAlignment": "CENTER",
-      "textPosition": "CENTER"
+      "textPosition": "RIGHT"
     }
   }
 }
