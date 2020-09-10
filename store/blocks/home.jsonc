@@ -1,15 +1,15 @@
 {
-  "store.home": { 
+  "store.home": {
     "blocks": [
       "rich-text",
       "info-card#button-right",
       "info-card#button-left"
+
     ]
   },
-  "rich-text":{
-    "props":{
-      "text": "**HELLO, WORDL!**",
-      "textAlignment": "CENTER",
+  "rich-text": {
+    "props": {
+      "text": "**Hello, World!**",
       "textPosition": "RIGHT"
     }
   },
@@ -23,8 +23,7 @@
       "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center",
-      "blockClass": "vintage"
+      "textAlignment": "center"
     }
   },
   "info-card#button-left": {
